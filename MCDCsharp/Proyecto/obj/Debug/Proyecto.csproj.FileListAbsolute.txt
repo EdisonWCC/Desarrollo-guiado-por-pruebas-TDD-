@@ -1,0 +1,6 @@
+C:\Users\Edison\Desktop\MCD\MCDCsharp\Proyecto\bin\Debug\Proyecto.dll
+C:\Users\Edison\Desktop\MCD\MCDCsharp\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Edison\Desktop\MCD\MCDCsharp\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Edison\Desktop\MCD\MCDCsharp\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Edison\Desktop\MCD\MCDCsharp\Proyecto\obj\Debug\Proyecto.dll
+C:\Users\Edison\Desktop\MCD\MCDCsharp\Proyecto\obj\Debug\Proyecto.pdb
